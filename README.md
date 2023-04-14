@@ -1,6 +1,6 @@
 # Template Java
 
-## Getting Start
+## Getting Started
 
 ```
 $ gradle run
