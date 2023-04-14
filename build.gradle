@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+sourceSets {
+    main.java.srcDirs = ['src']
+}
+
+application {
+    mainClassName = 'Main'
+}
+
+repositories {
+    mavenCentral()
+}
+
